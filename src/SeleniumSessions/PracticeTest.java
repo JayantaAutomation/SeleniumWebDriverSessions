@@ -7,6 +7,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+/*
+ *Author: Jayanta Kumar Panda
+ * 
+ */ 
 public class PracticeTest {
 
 	public static void main(String[] args) throws InterruptedException {

@@ -14,6 +14,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+/*
+ *Author: Jayanta Kumar Panda
+ * 
+ */
 
 public class SeleniumWaitingStrategies {
 
